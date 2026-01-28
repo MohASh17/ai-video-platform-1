@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+openai
+ffmpeg-python
